@@ -1,50 +1,42 @@
-# Welcome to your Expo app 👋
+# HerShield AI - AI-Powered Digital Safety Platform 💜💜💜
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+> **Final Project**: Building Safer Digital Spaces for Women & Girls
 
-## Get started
+## 🛡️ Overview
+HerShield is an AI-powered mobile app that proactively detects digital abuse patterns in messages and provides survivors with instant support, safety resources, and secure evidence storage.
 
-1. Install dependencies
+## 🤖 AI Features (65%+ AI Integration)
+- **Natural Language Processing** for abuse detection
+- **Pattern Recognition** for identifying manipulation
+- **Risk Prediction** algorithms
+- **Multilingual support** capabilities
+- **Personalized safety recommendations**
 
-   ```bash
-   npm install
-   ```
+## 🎯 Core Features
+- AI Message Analysis & Risk Detection
+- Secure Evidence Vault with encryption
+- Emergency Safety Toolkit with hotlines
+- Quick Exit safety feature
+- Multi-platform support (iOS, Android, Web)
 
-2. Start the app
 
-   ```bash
-   npx expo start
-   ```
+## 📱 Screens
+- **Home**: App overview and quick access
+- **AI Analysis**: Real-time message risk assessment
+- **Evidence Vault**: Secure storage with AI organization
+- **Safety Toolkit**: Emergency contacts and resources
 
-In the output, you'll find options to open the app in a
+## 🛠️ Tech Stack
+- **Frontend**: React Native, Expo
+- **AI/ML**: Custom NLP engine, Pattern recognition
+- **Navigation**: Expo Router
+- **Deployment**: Vercel
+- **State Management**: React Hooks
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## 📄 Project Submission
+This project was created focusing on **Safety by Design** and **Survivor Support** themes.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
+## 🔧 Development
 ```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+npm install
+npx expo start
