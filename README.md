@@ -42,7 +42,7 @@ HerShield AI is a comprehensive digital safety platform that leverages artificia
 - Quick exit feature for immediate safety
 
 ## 🚀 Live Deployment
-**Live Demo**: [Your Vercel Deployment Link Here]
+**Live Demo**: [shieldher-eta.vercel.app]
 
 ## 📱 Platform Support
 - **iOS & Android** (via Expo)
